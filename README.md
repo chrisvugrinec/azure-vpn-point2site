@@ -5,6 +5,8 @@ Currently there are 3 ways of connecting your Azure VNET to your on premise/home
 * VPN, Site to Site; a bit more complex than the point to site config, as your on premise environment needs to have a dedicated gateway server
 * Express Route; Enterprise solution with a dedicated line and a lot of options
 
+Demo available on: https://youtu.be/cEbIvDrWnno
+
 ## Point to Site
 
 Steps taken in the demo: 
