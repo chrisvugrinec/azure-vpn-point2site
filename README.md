@@ -21,7 +21,7 @@ Steps taken in the demo:
   * Create CSR based on Private Key file
   * Create Certificate based on Private key file and CSR
   * Remove the space of the new Certificate and copy it (use src code script)
-  * Import the new Certificage to Keychain
+  * Import the new Certificate to Keychain
 * On Azure
   * In the VPN gateway config, go to connections
   * In the Connection, add a connection and paste the content of the new Certificate (without spaces) in the connection config
